@@ -19,7 +19,7 @@ In this project, I leveraged the Animals-10 dataset, curating a balanced subset 
 
 To run this project on your ESP32 device, follow these steps:
 
-1. Clone this repository: `(https://github.com/fitranurmayadi/Edge-Impulse-ESP32S3-Animals-10-with-ST7789).git`
+1. Clone this repository: 'https://github.com/fitranurmayadi/Edge-Impulse-ESP32S3-Animals-10-with-ST7789.git'
 2. Install the required dependencies.
 3. Upload the code to your ESP32 device.
 4. Open the Serial Monitor to view real-time detection results.
