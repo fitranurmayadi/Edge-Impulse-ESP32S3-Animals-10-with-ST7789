@@ -20,23 +20,39 @@ https://studio.edgeimpulse.com/studio/327359
 To run this project on your ESP32 device, follow these steps:
 Schematic:
 On AI Thinker ESP32-CAM:
+
 TFT to ESP32CAM:
+
 GND -> GND
+
 VCC -> 3.3V
+
 SCK -> IO14
+
 SDA -> IO13
+
 RES -> IO12
+
 DC  -> IO2
+
 BLK -> 3.3V
 
 on XIAO ESP32S3 Sense:
+
 TFT to ESP32S3 Sense:
+
 GND -> GND
+
 VCC -> 3.3V
+
 SCK -> IO10
+
 SDA -> IO8
+
 RES -> IO3
+
 DC  -> IO2
+
 BLK -> 3.3V
 
 1. Clone this repository: `[git clone https://github.com/fitranurmayadi/Edge-Impulse-ESP32S3-Animals-10-with-ST7789.git]`
@@ -55,7 +71,7 @@ BLK -> 3.3V
 - [Animals-10 Dataset](https://www.kaggle.com/datasets/alessiocorrado99/animals10)
 - [Room Dataset](https://www.kaggle.com/datasets/robinreni/house-rooms-image-dataset)
 
-#Tutorial Reference:
+## Tutorial Reference:
 
 - Introduction to Embedded Machine Learning by Shawn Hymel and Alexander Fred-Ojala: https://www.coursera.org/learn/introduction-to-embedded-machine-learning or https://www.youtube.com/watch?v=TgekTwrftcg&list=PL7VEa1KauMQqZFj_nWRfsCZNXaBbkuurG
 
