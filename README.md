@@ -9,6 +9,9 @@ In this project, I leveraged the Animals-10 dataset, curating a balanced subset 
 ## Project Link
 https://studio.edgeimpulse.com/studio/327359
 
+## Project Demo
+https://youtube.com/shorts/LacXYa14CoM?feature=share
+
 ## Key Features
 
 - Object classification using TinyML and Edge Impulse
@@ -18,7 +21,8 @@ https://studio.edgeimpulse.com/studio/327359
 ## Getting Started
 
 To run this project on your ESP32 device, follow these steps:
-Schematic:
+ - Schematic:
+   
 On AI Thinker ESP32-CAM:
 
 TFT to ESP32CAM:
